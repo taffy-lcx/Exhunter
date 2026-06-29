@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "Anuken/Mindustry",
+    "clone_url": "https://github.com/Anuken/Mindustry.git"
+  },
+  {
+    "full_name": "FCL-Team/FoldCraftLauncher",
+    "clone_url": "https://github.com/FCL-Team/FoldCraftLauncher.git"
+  },
+  {
+    "full_name": "Gedsh/InviZible",
+    "clone_url": "https://github.com/Gedsh/InviZible.git"
+  },
+  {
+    "full_name": "Konloch/bytecode-viewer",
+    "clone_url": "https://github.com/Konloch/bytecode-viewer.git"
+  },
+  {
+    "full_name": "LuckSiege/PictureSelector",
+    "clone_url": "https://github.com/LuckSiege/PictureSelector.git"
+  },
+  {
+    "full_name": "M66B/FairEmail",
+    "clone_url": "https://github.com/M66B/FairEmail.git"
+  },
+  {
+    "full_name": "OpenAPITools/openapi-generator",
+    "clone_url": "https://github.com/OpenAPITools/openapi-generator.git"
+  },
+  {
+    "full_name": "PojavLauncherTeam/PojavLauncher",
+    "clone_url": "https://github.com/PojavLauncherTeam/PojavLauncher.git"
+  },
+  {
+    "full_name": "SonarSource/sonarqube",
+    "clone_url": "https://github.com/SonarSource/sonarqube.git"
+  },
+  {
+    "full_name": "aimacode/aima-java",
+    "clone_url": "https://github.com/aimacode/aima-java.git"
+  },
+  {
+    "full_name": "alldatacenter/alldata",
+    "clone_url": "https://github.com/alldatacenter/alldata.git"
+  },
+  {
+    "full_name": "androidx/media",
+    "clone_url": "https://github.com/androidx/media.git"
+  },
+  {
+    "full_name": "apache/beam",
+    "clone_url": "https://github.com/apache/beam.git"
+  },
+  {
+    "full_name": "apache/hive",
+    "clone_url": "https://github.com/apache/hive.git"
+  },
+  {
+    "full_name": "apache/kylin",
+    "clone_url": "https://github.com/apache/kylin.git"
+  },
+  {
+    "full_name": "apache/shardingsphere",
+    "clone_url": "https://github.com/apache/shardingsphere.git"
+  },
+  {
+    "full_name": "bisq-network/bisq",
+    "clone_url": "https://github.com/bisq-network/bisq.git"
+  },
+  {
+    "full_name": "deeplearning4j/deeplearning4j",
+    "clone_url": "https://github.com/deeplearning4j/deeplearning4j.git"
+  },
+  {
+    "full_name": "fabric8io/kubernetes-client",
+    "clone_url": "https://github.com/fabric8io/kubernetes-client.git"
+  },
+  {
+    "full_name": "flyway/flyway",
+    "clone_url": "https://github.com/flyway/flyway.git"
+  },
+  {
+    "full_name": "fossasia/phimpme-android",
+    "clone_url": "https://github.com/fossasia/phimpme-android.git"
+  },
+  {
+    "full_name": "gephi/gephi",
+    "clone_url": "https://github.com/gephi/gephi.git"
+  },
+  {
+    "full_name": "google/ExoPlayer",
+    "clone_url": "https://github.com/google/ExoPlayer.git"
+  },
+  {
+    "full_name": "google/guava",
+    "clone_url": "https://github.com/google/guava.git"
+  },
+  {
+    "full_name": "h2oai/h2o-2",
+    "clone_url": "https://github.com/h2oai/h2o-2.git"
+  },
+  {
+    "full_name": "hapifhir/hapi-fhir",
+    "clone_url": "https://github.com/hapifhir/hapi-fhir.git"
+  },
+  {
+    "full_name": "igniterealtime/Openfire",
+    "clone_url": "https://github.com/igniterealtime/Openfire.git"
+  },
+  {
+    "full_name": "iterate-ch/cyberduck",
+    "clone_url": "https://github.com/iterate-ch/cyberduck.git"
+  },
+  {
+    "full_name": "jMonkeyEngine/jmonkeyengine",
+    "clone_url": "https://github.com/jMonkeyEngine/jmonkeyengine.git"
+  },
+  {
+    "full_name": "jitsi/jitsi",
+    "clone_url": "https://github.com/jitsi/jitsi.git"
+  },
+  {
+    "full_name": "kermitt2/grobid",
+    "clone_url": "https://github.com/kermitt2/grobid.git"
+  },
+  {
+    "full_name": "keycloak/keycloak",
+    "clone_url": "https://github.com/keycloak/keycloak.git"
+  },
+  {
+    "full_name": "killbill/killbill",
+    "clone_url": "https://github.com/killbill/killbill.git"
+  },
+  {
+    "full_name": "lbryio/lbry-android",
+    "clone_url": "https://github.com/lbryio/lbry-android.git"
+  },
+  {
+    "full_name": "libgdx/libgdx",
+    "clone_url": "https://github.com/libgdx/libgdx.git"
+  },
+  {
+    "full_name": "magefree/mage",
+    "clone_url": "https://github.com/magefree/mage.git"
+  },
+  {
+    "full_name": "nextcloud/android",
+    "clone_url": "https://github.com/nextcloud/android.git"
+  },
+  {
+    "full_name": "questdb/questdb",
+    "clone_url": "https://github.com/questdb/questdb.git"
+  },
+  {
+    "full_name": "raphw/byte-buddy",
+    "clone_url": "https://github.com/raphw/byte-buddy.git"
+  },
+  {
+    "full_name": "sksamuel/scrimage",
+    "clone_url": "https://github.com/sksamuel/scrimage.git"
+  },
+  {
+    "full_name": "soot-oss/soot",
+    "clone_url": "https://github.com/soot-oss/soot.git"
+  },
+  {
+    "full_name": "sparrowwallet/sparrow",
+    "clone_url": "https://github.com/sparrowwallet/sparrow.git"
+  },
+  {
+    "full_name": "synthetichealth/synthea",
+    "clone_url": "https://github.com/synthetichealth/synthea.git"
+  },
+  {
+    "full_name": "triplea-game/triplea",
+    "clone_url": "https://github.com/triplea-game/triplea.git"
+  },
+  {
+    "full_name": "zhkl0228/unidbg",
+    "clone_url": "https://github.com/zhkl0228/unidbg.git"
+  }
+]
